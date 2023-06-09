@@ -153,6 +153,9 @@ export default {
 </script>
   
 <style scoped>
+table{
+  min-width:600px;
+}
 th, td {
   font-size: 80%;
 }
